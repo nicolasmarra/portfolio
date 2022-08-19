@@ -353,9 +353,7 @@ header p {
 }
 
 @media screen and (max-width: 800px) {
-  body {
-    margin-inline: 30px;
-  }
+
   .container {
     display: flex;
     flex-direction: column;
