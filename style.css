@@ -354,20 +354,21 @@ header p {
 
 @media screen and (max-width: 800px) {
   body {
-    width: 350px;
+    max-width: 360px;
     margin-inline: auto;
   }
 
   .container {
     display: flex;
     flex-direction: column;
+    max-width: 348px;
   }
 
   .principal {
     margin-top: -25px;
   }
   .principal .projets {
-    width: 348px;
+    max-width: 348px;
     gap: 70px;
   }
 
