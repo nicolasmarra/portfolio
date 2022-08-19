@@ -353,7 +353,7 @@ header p {
 }
 
 @media screen and (max-width: 800px) {
-  body {
+  body, .container {
     max-width: 360px;
     margin-inline: 10px;
   }
