@@ -1,3 +1,3 @@
 # portfolio
 
-Portfolio en HTML et CSS 
+Portfolio moderne en HTML et CSS 
