@@ -355,7 +355,7 @@ header p {
 @media screen and (max-width: 800px) {
   body {
     max-width: 360px;
-    margin-inline: auto;
+    margin-inline: 10px;
   }
 
   .container {
@@ -368,7 +368,7 @@ header p {
     margin-top: -25px;
   }
   .principal .projets {
-    max-width: 348px;
+    width: 348px;
     gap: 70px;
   }
 
